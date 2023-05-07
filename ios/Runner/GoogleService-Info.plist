@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>689786950424-7anj4q52u02l0tv2e9bscofppq8vilc0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.689786950424-7anj4q52u02l0tv2e9bscofppq8vilc0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3cT_pdXSQ26SabxnUHKskH7HZYAqyiVw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>689786950424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testingblocCourse</string>
+	<key>PROJECT_ID</key>
+	<string>bloc-photo-library-app-course</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bloc-photo-library-app-course.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:689786950424:ios:6c0d01e8f690c71062846d</string>
+</dict>
+</plist>
